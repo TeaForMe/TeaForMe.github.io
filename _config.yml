@@ -1,5 +1,5 @@
 # Site settings
-title: My GitHub Blog
+title: Dearm come true
 SEOTitle: 黑喵的博客 | bkcat Blog
 header-img: img/post-bg-desk.jpg
 email: kxbshn@qq.com
@@ -12,7 +12,7 @@ github_repo: "https://github.com/TeaForMe/teaforme.github.io.git" # you code rep
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/avatar_m.JPG      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/black-cat.JPG      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
